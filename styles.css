@@ -267,4 +267,9 @@ div.user-info-container .name img {
     .parameter-container {
         flex-direction: column;
     }
+    
+    .parameter {
+        width: 50%;
+        max-width: 300px;
+    }
 }
